@@ -1,0 +1,225 @@
+#top {
+    text-align: center;
+    color: rgb(242, 240, 237);
+    background-color: rgb(21, 21, 99);
+    font-size: small;
+    padding: 0.02px;
+}
+
+#topText {
+    padding-top: 9px;
+}
+
+#myCarousel img {
+    display: block;
+    height: 600px;
+    line-height: 1;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.aboutCouses {
+    background-color: rgb(21, 21, 99);
+    color: white;
+    text-align: center;
+
+    padding: 25px;
+
+}
+
+
+.aboutCouses p {
+    display: inline;
+    padding: 5px;
+}
+
+.heading {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 46px;
+}
+
+#firstSpan {
+    color: blue;
+}
+
+#secondSpan {
+    color: green;
+}
+
+.institutionBody {
+
+    margin: 25px;
+}
+
+.notranslate {
+    padding: 18px;
+}
+
+.homecardHeading {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.title {
+    font-size: large;
+    font-weight: 500;
+}
+
+.description {
+    font-size: medium;
+    font-weight: 300;
+}
+
+.heading-text {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.accordion-header {
+    display: flex;
+    flex-direction: row;
+}
+
+#myAccordian {
+    margin: 50px;
+}
+
+#myAccordian h5 {
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 20px;
+    color: rgb(97, 86, 86);
+}
+
+.swayam {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.achieversHeading img {
+
+    margin-bottom: 15px;
+
+
+}
+
+.achieversHeading {
+
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.achieversContent {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+
+
+.img-fluid {
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+
+}
+
+.testamonial-img {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-color: rgb(109, 106, 106);
+    height: 450px;
+
+}
+
+ul.social-icons {
+    margin: 10px;
+}
+
+ul.social-icons li {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#legal {
+    background: #0073d0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #E6E6E6;
+    min-height: 30px;
+    line-height: 30px
+}
+
+@media (min-width: 481px) {
+    .legalContainer {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+.legalContainer {
+    display: block;
+    position: relative;
+}
+
+.rowLegalContainer {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+#legal a {
+    color: #E6E6E6;
+    padding: 0px 0px 0px 0px;
+    font-weight: 400;
+    line-height: 16px;
+    background: transparent;
+    text-decoration: none;
+
+}
+
+.helpline {
+    text-align: right;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+#legal a:hover {
+    color: #FFFFFF;
+}
+
+.helpline {
+    color: #FFFFFF;
+}
+
+
+#footer {
+    padding-top: 3px;
+    padding-bottom: 2px;
+    color: #FFFFFF;
+    background: #003987;
+    font-size: 10px;
+    font-weight: 500;
+    min-height: 30px;
+}
+
+#footer div {
+    font-size: 12px;
+}
+
+.footerContainer {
+    display: block;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footerRow {
+    margin-right: -15px;
+    margin-left: -15px;
+}
